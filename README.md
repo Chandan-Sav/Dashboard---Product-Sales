@@ -1,4 +1,3 @@
-
 # Product Sales Dashboard
 
 ### [1] Dashboard Link :https://app.powerbi.com/links/v_Qbi6CMy_?ctid=3f66430c-920e-49dc-9dd6-8223afea3b81&pbi_source=linkShare
